@@ -1,0 +1,9 @@
+╰─>$ uname -a 
+Linux ares 5.8.0-gentoo-x86_64 #1 SMP Thu Aug 6 21:49:14 +04 2020 x86_64 AMD Ryzen 5 3600 6-Core Processor AuthenticAMD GNU/Linux
+
+╰─>$ qemu-system-x86_64 --version
+QEMU emulator version 5.1.0
+Copyright (c) 2003-2020 Fabrice Bellard and the QEMU Project developers
+
+╰─>$ libvirtd --version
+libvirtd (libvirt) 6.7.0
