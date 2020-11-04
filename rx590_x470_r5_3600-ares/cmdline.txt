@@ -1,0 +1,2 @@
+╰─>$ cat /proc/cmdline 
+BOOT_IMAGE=/vmlinuz-5.8.0-gentoo-x86_64 root=UUID=... ro quiet splash amd_iommu=on iommu=pt vfio-pci.ids=1002:67df,1002:aaf0 quiet splash amd_iommu=on iommu=pt vfio-pci.ids=1002:67df,1002:aaf0
